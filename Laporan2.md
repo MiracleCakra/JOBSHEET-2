@@ -278,7 +278,7 @@ o
 Method hitungHargaBayar() digunakan untuk menghitung harga total setelah dikurangi diskon
 Class diagram Buku setelah penambahan ketiga method tersebut adalah sebagai berikut.
 
-    <img src ="latihan 1.png">
+<img src="latihan 1.png">
 
     KODE PROGRAM
 
@@ -381,6 +381,7 @@ public class BukuMain07 {
 ```
 
 2. Buat program berdasarkan class diagram berikut ini!
+    
     <img src= "latihan 2.png">
 
     Penjelasan dari atribut dan method pada class Dragon tersebut adalah sebagai berikut:
