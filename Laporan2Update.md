@@ -278,7 +278,7 @@ o
 Method hitungHargaBayar() digunakan untuk menghitung harga total setelah dikurangi diskon
 Class diagram Buku setelah penambahan ketiga method tersebut adalah sebagai berikut.
 
-<img src="latihan 1.png">
+    <img src="latihan 1.png">
 
     KODE PROGRAM
 
