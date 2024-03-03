@@ -44,7 +44,7 @@ Absen: 07
 ```
 
 ### 2.1.2 Verifikasi hasil percobaan
-<img src ="out percobaan 1.png">
+<img src = "outperco1.png">
 
 
 ## PERTANYAAN 1
