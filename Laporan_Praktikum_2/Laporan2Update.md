@@ -44,7 +44,10 @@ Absen: 07
 ```
 
 ### 2.1.2 Verifikasi hasil percobaan
-<img src = "outperco1.png">
+
+<img src = "outpercobaan1.png">
+
+
 
 
 ## PERTANYAAN 1
@@ -116,7 +119,7 @@ public class BukuMain07 {
 ```
 
 ### 2.2.2 Verifikasi hasil percobaan program
-<img src= "out percobaan 2.png">
+<img src= "outpercobaan2.png">
 
 ### PERTANYAAN
 
@@ -216,7 +219,7 @@ public class BukuMain07 {
 ```
 
 ### 2.3.2 Verifikasi Hasil Percobaan
-<img src ="out percobaan 3.png">
+<img src ="outpercobaan3.png">
 
 
 ### 2.3.3 Pertanyaan
