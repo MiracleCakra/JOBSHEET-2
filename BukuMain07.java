@@ -23,8 +23,8 @@ public class BukuMain07 {
         bk2.terjual(11);
         bk2.tampilInformasi();
         
-        Buku07 bukuRafi = new Buku07("Laskar Pelangi", "Andrea Hinata", 534, 19, 290000);
-        bukuRafi.terjual(9);
-        bukuRafi.tampilInformasi();
+        Buku07 bukuCakra = new Buku07("Laskar Pelangi", "Andrea Hinata", 534, 19, 290000);
+        bukuCakra.terjual(9);
+        bukuCakra.tampilInformasi();
     }
 }
